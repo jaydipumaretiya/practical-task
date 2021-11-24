@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686998692378",
+    "project_id": "practical-tasks",
+    "storage_bucket": "practical-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686998692378:android:f7807f1a559670beade7a3",
+        "android_client_info": {
+          "package_name": "app.practical.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686998692378-ovellhlcig0i4817v0bv4h2o4q0j33s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJnz7Yf3bpELzKa4bbvxWcNvDFMtAARY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686998692378-ovellhlcig0i4817v0bv4h2o4q0j33s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

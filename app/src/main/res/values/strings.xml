@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practical Task</string>
+
+    <!-- Strings related to Dialog -->
+    <string name="please_wait">Please Wait…</string>
+
+    <!-- Strings related to login -->
+    <string name="login_with_your_mobile_number">Sign in or register with your Mobile Number</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="action_submit">Submit</string>
+    <string name="invalid_phone_number">Phone number must be more than 9 characters</string>
+
+    <!-- Strings related to login -->
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_opt">Enter the OTP sent to %s</string>
+    <string name="resend">Resend</string>
+
+    <!-- Strings related to profile -->
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
